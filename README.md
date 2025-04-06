@@ -1,65 +1,76 @@
-# 👋 Hi, I'm Satvik Dubey
-
-🚀 DevOps & Python Developer  
-🧠 Building with LangChain, GenAI, and Streamlit  
-⚙️ Automating workflows & deploying full-stack apps
+<h1 align="center">Hi 👋, I'm Satvik Dubey</h1>
+<h3 align="center">DevOps Engineer | Python Developer | AI & Automation Enthusiast</h3>
 
 ---
 
-### 🧰 Tech Stack
+### 💡 About Me
 
-**Languages & Frameworks**  
+- 🔭 I’m currently working on end-to-end automation using **LangChain**, **Streamlit**, and **FastAPI**
+- ⚙️ I specialize in building and deploying scalable systems using **Python**, **Docker**, **CI/CD**, and **AWS**
+- 🤖 Passionate about **LLMs**, **MLOps**, and integrating GenAI into real-world applications
+- 📊 I also enjoy building dashboards, tools, and automation scripts that improve productivity
+- 🌱 Currently exploring: **LLM agents**, **vector databases**, and **cloud-native AI services**
+
+---
+
+### 🛠️ Tech Stack
+
+#### 💻 Programming & Scripting
 <p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/FastAPI-005571?style=flat-square&logo=fastapi&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white"/>
 </p>
 
-**DevOps & Cloud Tools**  
+#### ⚙️ DevOps & Cloud
 <p>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white"/>
-  <img src="https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=github-actions&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black"/>
 </p>
 
-**GenAI / LLM Tools**  
+#### 🧠 GenAI & LangChain
 <p>
-  <img src="https://img.shields.io/badge/LangChain-black?style=flat-square&logo=langchain&logoColor=white"/>
-  <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LangChain-black?style=flat&logo=langchain&logoColor=white"/>
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white"/>
 </p>
 
 ---
 
-### 📌 Featured Projects
+### 🚀 Notable Projects
 
-- 🔊 [Nexus The Voice Assistant](https://github.com/Dubeysatvik123/Nexus_The_Voice_Assistant): Flask-based audio Q&A bot for college information  
-- 🧠 [Matrix](https://github.com/Dubeysatvik123/Matrix): LangChain-powered math problem solver  
-- 👥 [vProfile Project](https://github.com/Dubeysatvik123/Vprofile_project): User profile manager with GitOps and Java Spring MVC  
-- 🤖 [Aira](https://github.com/Dubeysatvik123/aira): Auto code generator and math solver using LLMs  
-- 📈 [Skill Sadhana](https://github.com/Dubeysatvik123/Skill-sadhana): Full LMS with test tracking, video progress, live classes  
-- 💸 [Expense Tracker](https://github.com/Dubeysatvik123/streamlit-expense-tracker): Streamlit-based personal finance tracker  
+| Project | Description |
+|--------|-------------|
+| [**Nexus Voice Assistant**](https://github.com/Dubeysatvik123/Nexus_The_Voice_Assistant) | Conversational bot built with Flask and audio input/output for college info |
+| [**Matrix**](https://github.com/Dubeysatvik123/Matrix) | Math solver powered by LangChain and OpenAI with dynamic parsing |
+| [**vProfile Project**](https://github.com/Dubeysatvik123/Vprofile_project) | Spring MVC-based app integrated with GitOps, Jenkins, Docker |
+| [**Aira**](https://github.com/Dubeysatvik123/aira) | LLM-based code and math solver with human-like decision capability |
+| [**Skill Sadhana LMS**](https://github.com/Dubeysatvik123/Skill-sadhana) | Django-based LMS with video, PDF tracking, instructor test module |
+| [**Expense Tracker**](https://github.com/Dubeysatvik123/streamlit-expense-tracker) | Budget and expense dashboard built using Streamlit & SQLite |
 
 ---
 
-### 📈 GitHub Stats
+### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Dubeysatvik123&show_icons=true&theme=tokyonight" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dubeysatvik123&theme=tokyonight" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Dubeysatvik123&show_icons=true&theme=default" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dubeysatvik123&theme=default" width="48%" />
 </p>
 
 ---
 
-### 📫 Connect with Me
+### 🌐 Let's Connect
 
-- 🌐 [GitHub](https://github.com/Dubeysatvik123)
-- 💼 [LinkedIn](https://www.linkedin.com/in/satvik-dubey-8477ab23b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) *(Add if available)*
+- 💼 [LinkedIn](https://www.linkedin.com/in/satvik-dubey)
+- 💻 [GitHub](https://github.com/Dubeysatvik123)
+- 📫 Email: *[add your email if you want]*
 
 ---
 
-> “First, solve the problem. Then, write the code.” – John Johnson  
-> 🔥 *Keep shipping. Keep learning. Keep building.*
+### 💬 Quote I Live By
+
+> "The best way to predict the future is to invent it." – Alan Kay  
+> *Build. Ship. Learn. Repeat.*
 
 ---
