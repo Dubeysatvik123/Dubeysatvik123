@@ -48,13 +48,6 @@
 🔹 **[Streamlit Expense Tracker](https://github.com/Dubeysatvik123/streamlit-expense-tracker)**  
 > Login/signup, set budgets, add transactions, and visualize reports — all in Streamlit!
 
----
 
-### 📊 GitHub Stats
-
-
-
-
----
 
 _“Code like a developer. Think like a product owner. Scale like a DevOps engineer.”_
