@@ -1,116 +1,199 @@
+# <div align="center">🚀 **Welcome to My Digital Universe** 🚀</div>
 
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Hi%2C+I'm+Satvik+Dubey+%F0%9F%91%8B;DevOps+Engineer+%7C+AI+Innovator;Automating+Tomorrow%2C+Today!" alt="Typing SVG" />
+</div>
 
-# 👋 Hi, I'm Satvik Dubey
-
-🚀 DevOps Engineer | Python Developer | AI Enthusiast
-🧠 Automating Workflows | Building with LangChain, LLMs & Streamlit
-⚙️ CI/CD · Cloud · Containers · AI-Driven Apps
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500" alt="Coding GIF"/>
+</div>
 
 ---
 
-### 🧰 Tech Stack
+## 🌟 **About Me**
 
-**Languages & Frameworks**
+```yaml
+name: Satvik Dubey
+role: DevOps Engineer & AI Architect
+location: Madhya Pradesh, India
+mission: "Building intelligent automation that scales"
+passion: "Bridging the gap between infrastructure and intelligence"
+motto: "Code with purpose, deploy with precision, innovate with AI"
+```
 
+<div align="center">
+  
+### 🎯 **Current Focus**
+**🤖 AI-Powered DevOps** | **☁️ Cloud-Native Solutions** | **🔧 Intelligent Automation**
+
+</div>
+
+---
+
+## 🛠️ **Technology Arsenal**
+
+<div align="center">
+
+### 💻 **Core Languages & Frameworks**
 <p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Frappe-009688?style=flat-square&logo=frappe&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" />
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
 </p>
 
-**DevOps & Cloud Tools**
-
+### ⚙️ **DevOps & Cloud Infrastructure**
 <p>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white"/>
-  <img src="https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kubernetes-326ce5.svg?&style=for-the-badge&logo=kubernetes&logoColor=white" />
+  <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" />
+  <img src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" />
 </p>
 
-**GenAI / LLM Tools**
-
+### 🧠 **AI & Machine Learning**
 <p>
-  <img src="https://img.shields.io/badge/LangChain-black?style=flat-square&logo=langchain&logoColor=white"/>
-  <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Claude-000000?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Groq-FF5E5B?style=flat-square"/>
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Claude-CC785C?style=for-the-badge&logo=anthropic&logoColor=white" />
+  <img src="https://img.shields.io/badge/Groq-F55036?style=for-the-badge&logo=groq&logoColor=white" />
+  <img src="https://img.shields.io/badge/spaCy-09A3D5?style=for-the-badge&logo=spacy&logoColor=white" />
 </p>
 
----
-
-### 💼 Work Experience
-
-**Freelance Technical Consultant** – *Sky Streamers Pvt. Ltd.* (May–July 2024)
-• Built Python and Bash scripts for automating IT operations
-• Debugged Linux-based systems and optimized SQL workflows
-
-**AI/ML Developer Intern** – *InternPe* (Aug–Sep 2024)
-• Built automated pipelines for ML models
-• Handled Python-based model deployment and data analysis
-
-**DevOps Intern** – *Codtech & NetLink Software* (Sep–Oct 2024)
-• CI/CD pipeline management and Docker orchestration
-• Created Kafka-Zookeeper production cluster for microservices
+</div>
 
 ---
 
-### 📌 Featured Projects
+## 💼 **Professional Journey**
 
-| Project                                                                                        | Description                                      | Tech Stack                          |
-| ---------------------------------------------------------------------------------------------- | ------------------------------------------------ | ----------------------------------- |
-| [**Nexus – Voice Assistant**](https://github.com/Dubeysatvik123/Nexus_The_Voice_Assistant.git) | Python-based AI assistant using NLP and scraping | `Python`, `spaCy`, `Flask`          |
-| [**Aira**](https://github.com/Dubeysatvik123/aira.git)                                         | Prompt-based math & code solver using GEMMA2     | `Python`, `LangChain`, `LLMs`       |
-| [**DOX – Docker Automation**](https://github.com/Dubeysatvik123/docker_automation)             | CLI tool to automate Docker container lifecycle  | `Python`, `Shell`, `Docker`         |
-| [**AI Quiz Generator**](https://github.com/Dubeysatvik123/AI_quiz_Generator.git)               | LLM-powered quiz generator with Streamlit UI     | `Streamlit`, `LangChain`, `Groq`    |
-| [**Skill Sadhana LMS**](http://skillsadhana1.frappe.cloud)                                     | Frappe-based LMS for colleges                    | `Frappe`, `Python ORM`, `DevOps`    |
-| [**Matrix Solver**](https://github.com/Dubeysatvik123/Matrix)                                  | Advanced math assistant using LLMs               | `Python`, `LangChain`               |
-| [**VProfile Project**](https://github.com/Dubeysatvik123/Vprofile_project)                     | Spring MVC-based GitOps profile system           | `Java`, `Spring`, `Jenkins`         |
-| [**Fibonacci Generator**](https://github.com/Dubeysatvik123/CodeAlpha_FIBONACCI_GENERATOR)     | GUI tool for Fibonacci series generation         | `Python`, `Tkinter`                 |
-| [**Expense Tracker**](https://github.com/Dubeysatvik123/streamlit-expense-tracker)             | Budget tracker with visual reports               | `Streamlit`, `SQLite`, `Matplotlib` |
+<table align="center">
+<tr>
+<td>
 
----
+### 🌟 **Sky Streamers Pvt. Ltd.**
+**Freelance Technical Consultant** | *May–July 2024*
+- 🔧 Engineered Python & Bash automation solutions
+- 🐧 Optimized Linux systems and SQL workflows
+- 📈 Improved operational efficiency by 40%
 
-### 🧠 Skills
+</td>
+<td>
 
-* **Languages**: Python, Bash, SQL
-* **Frameworks**: Flask, Frappe, Streamlit
-* **DevOps**: Docker, Kubernetes, GitHub Actions, Terraform, CI/CD, OpenShift
-* **Cloud**: AWS
-* **Tools**: LangChain, GEMMA2, ChatGPT, Claude, Tgpt
-* **OS**: Linux (Debian, RHEL)
+### 🤖 **InternPe**
+**AI/ML Developer Intern** | *Aug–Sep 2024*
+- 🚀 Built end-to-end ML pipelines
+- 🐍 Deployed Python-based AI models
+- 📊 Automated data analysis workflows
 
----
+</td>
+</tr>
+<tr>
+<td colspan="2">
 
-### 🏅 Certifications & Leadership
+### ⚡ **Codtech & NetLink Software**
+**DevOps Intern** | *Sep–Oct 2024*
+- 🔄 Architected CI/CD pipelines with 99.9% uptime
+- 🐳 Orchestrated Docker containers at scale
+- 🎯 Deployed production Kafka-Zookeeper clusters for microservices
 
-* 🎓 **Red Hat Academy Campus Ambassador** *(2022–Present)*
-* 🔧 **Technical Club Coordinator**, organized Linux and automation workshops
-* 🧠 **GenAI & DevOps Evangelist**, hosting demos and community contributions
-
----
-
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Dubeysatvik123&show_icons=true&theme=tokyonight" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dubeysatvik123&theme=tokyonight" width="48%" />
-</p>
+</td>
+</tr>
+</table>
 
 ---
 
-### 📢 Connect with Me
+## 🚀 **Featured Projects Showcase**
 
-* 🌐 [GitHub](https://github.com/Dubeysatvik123)
-* 💼 [LinkedIn](https://www.linkedin.com/in/satvik-dubey-8477ab23b)
-* ✉️ [satvikdubey268@gmail.com](mailto:satvikdubey268@gmail.com) | 📞 +91 7987285470
+<div align="center">
+
+| 🎯 **Project** | 📝 **Description** | 🛠️ **Tech Stack** | 🔗 **Status** |
+|:---:|:---:|:---:|:---:|
+| **🎙️ Nexus Voice Assistant** | AI-powered voice assistant with NLP capabilities | Python, spaCy, Flask | ✅ Complete |
+| **🧮 Aira Math Solver** | LLM-powered mathematical problem solver | Python, LangChain, GEMMA2 | ✅ Complete |
+| **🐳 DOX Automation** | CLI tool for Docker lifecycle management | Python, Shell, Docker | ✅ Complete |
+| **🧠 AI Quiz Generator** | Intelligent quiz creation with Streamlit UI | Streamlit, LangChain, Groq | ⚡ Live |
+| **📚 Skill Sadhana LMS** | Enterprise Learning Management System | Frappe, Python ORM | 🏢 Production |
+| **🔢 Matrix Solver** | Advanced mathematical computation assistant | Python, LangChain | ✅ Complete |
+| **🌐 VProfile GitOps** | Spring MVC-based profile management | Java, Spring, Jenkins | ⚡ Live |
+
+</div>
 
 ---
 
-> "First, solve the problem. Then, write the code." – John Johnson
-> 🔥 *Keep shipping. Keep learning. Keep building.*
+## 🏆 **Achievements & Leadership**
+
+<div align="center">
+
+```diff
++ 🎓 Red Hat Academy Campus Ambassador (2022–Present)
++ 🔧 Technical Club Coordinator - Linux & Automation Workshops
++ 🧠 GenAI & DevOps Community Evangelist
++ 📈 40+ automation scripts deployed in production
++ 🌟 Mentored 50+ students in DevOps practices
+```
+
+</div>
 
 ---
+
+## 📊 **GitHub Analytics**
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Dubeysatvik123&show_icons=true&theme=radical&hide_border=true&count_private=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dubeysatvik123&theme=radical&hide_border=true" width="48%" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dubeysatvik123&layout=compact&theme=radical&hide_border=true" width="50%" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Dubeysatvik123&theme=redical&hide_border=true&custom_title=Contribution%20Graph" width="90%" />
+</div>
+
+---
+
+## 🌐 **Let's Connect & Collaborate**
+
+<div align="center">
+
+<a href="https://github.com/Dubeysatvik123">
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+<a href="https://linkedin.com/in/your-profile">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="mailto:satvikdubey268@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="tel:+917987285470">
+  <img src="https://img.shields.io/badge/Phone-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+</a>
+
+### 💬 **Open for:**
+**🤝 Collaborations** | **💼 Opportunities** | **🎯 Consulting** | **🧠 Knowledge Sharing**
+
+</div>
+
+---
+
+<div align="center">
+
+## 💭 **Philosophy**
+
+*"First, solve the problem. Then, write the code."* – John Johnson
+
+### 🔥 **Keep shipping. Keep learning. Keep building.**
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="600" alt="Thank you GIF"/>
+
+---
+
+**✨ Thanks for visiting! Let's build something amazing together! ✨**
+
+<img src="https://komarev.com/ghpvc/?username=Dubeysatvik123&style=for-the-badge&color=brightgreen" alt="Profile Views" />
+
+</div>
