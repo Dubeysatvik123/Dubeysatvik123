@@ -98,13 +98,22 @@ motto: "Code with purpose, deploy with precision, innovate with AI"
 </td>
 </tr>
 <tr>
-<td colspan="2">
+<td>
 
-### ⚡ **Codtech & NetLink Software**
-**DevOps Intern** | *Sep–Oct 2024*
-- 🔄 Architected CI/CD pipelines with 99.9% uptime
-- 🐳 Orchestrated Docker containers at scale
-- 🎯 Deployed production Kafka-Zookeeper clusters for microservices
+### ⚡ **Codtech**
+**DevOps Intern** | *Sep–Oct 2024* | *Remote*
+- 🔄 Managed CI/CD pipelines for automated deployment
+- 🐍 Created Python & Bash scripts for system monitoring
+- 🛠️ Troubleshot infrastructure issues, minimized downtime
+
+</td>
+<td>
+
+### 🚀 **NetLink Software Pvt. Ltd.**
+**DevOps Intern** | *Sep–Oct 2024* | *Mandideep*
+- 🐳 Managed Docker container clusters using Docker Compose
+- 🎯 Created Kafka-Zookeeper production clusters
+- 🔄 Managed end-to-end CI/CD pipeline automation
 
 </td>
 </tr>
