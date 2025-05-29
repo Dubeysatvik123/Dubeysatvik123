@@ -1,9 +1,10 @@
 # <div align="center">🚀 **Welcome to My Digital Universe** 🚀</div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Hi%2C+I'm+Satvik+Dubey+%F0%9F%91%8B;DevOps+Engineer+%7C+AI+Innovator;Automating+Tomorrow%2C+Today!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=4000&pause=1500&color=00D9FF&center=true&vCenter=true&multiline=true&width=800&height=120&lines=Hi%2C+I'm+Satvik+Dubey+%F0%9F%91%8B;DevOps+Engineer+%7C+AI+Innovator;Automating+Tomorrow%2C+Today!" alt="Typing SVG" />
 </div>
 
+<br/>
 <br/>
 <br/>
 
@@ -11,6 +12,7 @@
   <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500" alt="Coding GIF"/>
 </div>
 
+<br/>
 <br/>
 
 ---
@@ -122,7 +124,7 @@ motto: "Code with purpose, deploy with precision, innovate with AI"
 | **🧠 AI Quiz Generator** | Intelligent quiz creation with Streamlit UI | Streamlit, LangChain, Groq | ⚡ Live |
 | **📚 Skill Sadhana LMS** | Enterprise Learning Management System | Frappe, Python ORM | 🏢 Production |
 | **🔢 Matrix Solver** | Advanced mathematical computation assistant | Python, LangChain | ✅ Complete |
-| **🌐 VProfile GitOps** | Spring MVC-based profile management | Java, Spring, Jenkins | ⚡ Live |
+| **🌐 VProfile GitOps** | Spring Boot app deployment architecture | Jenkins, Docker, GitOps | ⚡ Live |
 
 </div>
 
